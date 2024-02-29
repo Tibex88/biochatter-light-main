@@ -1,0 +1,14 @@
+.venv
+.vscode
+key.txt
+__pycache__
+.DS_Store
+input/*
+.devcontainer/*.env
+volumes/*
+.cache/
+.pytest_cache/
+chats/
+volumes/
+*.env
+schema_info.yaml
